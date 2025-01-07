@@ -1,11 +1,6 @@
 # web3go
 Web3 + Go
 
-### Collaborators
-
-1. Ryan Tan
-
-2. Kai Koh
 
 ### Development Workflow
 
